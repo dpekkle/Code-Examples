@@ -1,4 +1,4 @@
 Code-Examples
 =============
 
-Miscellaneous examples of my code.
+These are just some miscellaneous examples of my code. Most are for personal use.
